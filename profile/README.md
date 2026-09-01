@@ -4,8 +4,8 @@
 
 ![Bloomstead, a blooming meadow with a small sap factory](https://raw.githubusercontent.com/Bloodstead/.github/main/profile/media/header_capsule.png)
 
-Bloomstead is a cozy 2D automation game where your factory doesn't pollute, it *heals*.
-Harvest sap from crystals, chain extractors, belts and bloomers, and watch a withered
+Bloomstead is a cozy 2D automation puzzle where your factory doesn't pollute, it *heals*.
+Chain extractors, belts and bloomers from a small stock of pieces, and watch a withered
 world turn green again, tile by tile, as your little production lines hum along.
 
 Made with [Godot 4](https://godotengine.org) by a solo developer in France. Every sprite,
@@ -19,10 +19,11 @@ sound and song in the game is generated procedurally, without imported assets.
 
 ## What's inside
 
-- Nine machines that chain into small production lines: extractors, belts, splitters, tunnels, sprinklers, pumps.
-- A handmade campaign, then endless generated islands, plus a daily challenge, across nine biomes.
-- You can also plant by hand. Carry a seed anywhere; the machines do the scale, your hands do the details.
-- Permanent upgrades, achievements, and a free garden mode with decorations and a photo mode.
+- Nine machines that chain into small production lines: extractors, belts, bloomers, greenhouses, splitters, dynamos, sprinklers, tunnels and pumps.
+- Every level is a riddle: a small stock of pieces, a withered clearing. A placed piece stays where you put it, and the pieces you have left are your stars.
+- A lost puzzle costs nothing: out of pieces with land still grey, one tap restarts the level, instantly and for free.
+- A handmade campaign, then endless generated islands, plus a daily challenge, across nine biomes and nine level types.
+- A living island that answers your factory: bloombursts, fishing, buried chests, a golden hour. A sanctuary that reblooms with your progress, a flower collection, a merchant of garden decorations.
 - English and French, remappable keys, a reduced-motion option, full touch support.
 
 ## Screenshots
